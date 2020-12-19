@@ -1,0 +1,30 @@
+baseURL = "https://www.schneidertorpet.com/"
+languageCode = "en-us"
+title = "Schneider Torpet"
+theme = "researcher"
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+  author = "Schneiders"
+  description = "det Schneiderska torpet."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "By Schneiders"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Om"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    name = "Evenemang"
+    url = "/events"
+    weight = 3
+
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
