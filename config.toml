@@ -17,7 +17,7 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
-    name = "Om"
+    name = "Om torpet"
     url = "/about"
     weight = 2
   [[menu.main]]
