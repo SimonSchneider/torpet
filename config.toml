@@ -1,6 +1,6 @@
 baseURL = "https://www.schneidertorpet.com/"
 languageCode = "en-us"
-title = "Schneider Torpet"
+title = "Schneidertorpet"
 theme = "researcher"
 enableEmoji = true
 publishDir = "docs"

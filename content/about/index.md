@@ -2,28 +2,44 @@
 
 ## Hus
 
-På torpet finns flera hus, allt började med själva torpet som är ett gammalt soldattorp 
-med en rejäl utbyggnad och en lada där tidigare hästarna bodde men som numera är festlokal.
-Sedan Schneiders flyttade in är det många hus som byggts och man har även annexat både
+På torpet finns flera hus. Allt började med själva torpet. Det är ett gammalt soldattorp 
+som fick en rejäl tilbyggnad och en lada där tidigare hästarna bodde men som numera är festlokal.
+Sedan Schneiders flyttade in är det många hus som byggts och man har även annexerat både
 närliggande skog men även granntomten.
 
 #### Torpet
 
+Torpet är torpet på Torpet. Det är som sagt ett gammalt soldattorp som nu är ett 
+Schneidertorp. Mitt i torpet finns en rejäl murstock som värmer både människor och pizzor.
+
 #### Jordkällaren
-Att kalla jordkällaren för hus kan vara nära en överdrift men det gör den inte mindre viktig.
-Här finns året om kylda drycker i alla slag. Dessutom är taket en bra plats för Elvis att få
+Att kalla jordkällaren för hus kan vara något av en överdrift. Men det gör den inte mindre viktig.
+Här finns kylda drycker i alla dess slag. Året om, jordkällare är "coola". Dessutom är taket en bra plats för Elvis att få
 vara ifred.
 
 #### Ladan
+I ladan bodde tidigare torparhästar. Nu bor här torpargäster.
 
 #### Bastun
+I bastun är det varmt. Om man eldar. Även fin utsikt finns det här.
 
 #### Örnnästet (Gästhuset)
-Med virkesförråd
+Örnnästen ligger intill ladan. Ovanpå virkesförrådet står det på stolpar. Här finns
+loftsäng så man kommer ännu högre upp om man vill. Överslafen används mest av torparkatter.
 
 #### Rucklet
+Rucklet är inget ruckel. Det var ett ruckel innan det revs. Nu är det det minst ruckliga 
+huset. Här finns (snart) ordentligt kök, badrum med dusch och två sovrum.
 
 #### Bodlängan
+Här är herr torpares hjärta. I alla fall hans snickarbod. Här är det fri lek med verktyg av
+alla dess slag och farlighetsgrader. Även sovrum och toa får plats i bodlängan. Det passar
+bra för den som vill optimera snickartiden och slösa så lite som möjligt på annat.
+
+#### Catio
+
+Ett katthus. Måste sitta ihop med ett annat hus. Används bara av katterna som inte får gå
+ut.
 
 ## Andra Sevärdigheter
 
