@@ -2,4 +2,4 @@
 title = "Hem"
 +++
 
-Välkommen till schneider torpet
+Välkommen till Schneider torpet.
