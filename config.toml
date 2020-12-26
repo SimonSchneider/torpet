@@ -17,6 +17,10 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
+    name = "Historia"
+    url = "/history"
+    weight = 1
+  [[menu.main]]
     name = "Om torpet"
     url = "/about"
     weight = 2
