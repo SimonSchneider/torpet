@@ -27,7 +27,9 @@ I bastun är det varmt. Om man eldar. Även fin utsikt finns det här.
 Örnnästen ligger intill ladan. Ovanpå virkesförrådet står det på stolpar. Här finns
 loftsäng så man kommer ännu högre upp om man vill. Överslafen används mest av torparkatter.
 
-#### Rucklet
+#### Rucklet 
+
+[test](/about/rucklet)
 Rucklet är inget ruckel. Det var ett ruckel innan det revs. Nu är det det minst ruckliga 
 huset. Här finns (snart) ordentligt kök, badrum med dusch och två sovrum.
 

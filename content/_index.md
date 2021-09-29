@@ -4,6 +4,8 @@ title = "Hem"
 
 Välkommen till Schneidertorpet. Även kallat Skräddarbacken i folkmun. Eller bara Torpet.
 
+[![test](https://healthchecks.io/badge/24dc781b-c14c-4ccc-bab3-852846/wCL0lphY-2.svg)](https://healthchecks.io/projects/06396f4e-c147-4c2e-8979-de735faad2b4/checks/)
+
 Det är ett torp. Mitt i skogen. Utanför Vittinge. Utanför Uppsala. Utanför Stockholm. 
 I Sverige.
 

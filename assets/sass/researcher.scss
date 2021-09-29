@@ -69,7 +69,7 @@ $y-medium: 1.0rem;
     img {
         display: block;
         margin: $y-medium auto;
-        width: 80%;
+        max-width: 80%;
     }
     .avatar > img {
         border-radius: 50%;
